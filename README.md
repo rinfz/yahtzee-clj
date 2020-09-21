@@ -1,0 +1,3 @@
+# Yahtzee
+
+on the cli
